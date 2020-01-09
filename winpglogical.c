@@ -2,6 +2,7 @@
 #include <string.h>
 #include "fmgr.h"
 #include "utils/geo_decls.h"
+#include <stdio.h>
 
 #ifdef PG_MODULE_MAGIC
 PG_MODULE_MAGIC;
